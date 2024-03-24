@@ -2,6 +2,7 @@
 
 Obtained from [https://developer.apple.com/fonts/](https://developer.apple.com/fonts/)
 
+``` yaml
 flutter:
   uses-material-design: true
   fonts:
@@ -99,3 +100,4 @@ flutter:
         - asset: fonts/SF-Pro-Text/SF-Pro-Text-BlackItalic.otf
           weight: 900
           style: italic
+```
